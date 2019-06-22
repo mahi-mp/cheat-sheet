@@ -1,0 +1,16 @@
+universal selector --will be applied to all elements
+						FOR all tags (<p>,<ul>...etc)
+						ex .class{}
+
+Type selector 		-- element having all the properties will be affected 
+						<div>
+						ex div{}
+
+class selector		 -- multiple div we can apply
+						<div> <p><a>
+						ex .class1{}
+						.class2{}
+						<div class="class1">
+						<div class="class2 class1"
+
+ID selector			-- 

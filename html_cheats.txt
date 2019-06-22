@@ -1,0 +1,25 @@
+
+
+
+//  <iframe (Properties) >msg</iframe>
+To embbed video, html page etc.
+ 
+Example:
+<iframe style=" width:560px;height: 315px ; border=3; border-color: red"src="https://www.youtube.com/embed/aYYOt9tO18o"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> Your browser Does not support iframes!</iframe>
+
+//  <section> block </section>
+The <section> tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.
+
+//<img> tag for images we can use nested <a> tag to link image.
+<img src="d.jpg" alt="flash1" height="200" width="200" style="padding: 2px; margin-top: 50px">
+it require 2 attributes
+img and alt=alternate text for image
+
+//<p>  paregraph purpose</p>
+properties- align left right center justify
+			margin top bottom left right
+
+//&nbsp -non breaking space
+
+
+

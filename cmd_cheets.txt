@@ -1,0 +1,27 @@
+
+
+
+//ls-
+listing the files in the current directory in column
+properties-
+sort- -S sorts file size ,largest first
+		-s prints allocated size
+		-t sort by midification newest first
+		-v natural sort
+		-x lists by line instaed of column
+		-r reverce while sorting 
+		-R subordinate directories
+version ls --version  version of ls version
+help  ls --help
+		-m used when comma saperated list
+		-i prints index number of each file
+		-I ignore case
+		-X list files and folder alphabetically with extention
+		-l use long listing format
+
+
+//cd change directory
+
+//cp -n don't overwrite existing file 
+		-f force if existing file is not opning remove it and try 
+		
